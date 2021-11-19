@@ -1,0 +1,2 @@
+command :
+python run.py -i mylib/videos/test2.mp4
